@@ -1,0 +1,5 @@
+# Situation-aware eXplainability for Business Processes enabled by Complex Events
+## Abstract
+Traditionally, the organizational IT landscape is split between Business Process engines that are developed to handle process execution workloads and Complex Event Processing engines designed to search for event correlations in real time to derive actionable insights. For the benefit of process trustworthiness, this work focuses on combining the two engines, resulting in an enriched form of a process log that serves as an input to recently developed eXplainable Artificial Intelligence frameworks, yielding more adequate explanations for process execution outcomes.
+A designated methodology and a test scheme were created to systematically implement and evaluate our overall approach and its effectiveness in gaining situation-aware explainability.
+Specifically, we demonstrate our approach using a dataset populated for an illustrative process example, replaying its trace log against the PROTON CEP engine and transposing it into a tabular form used as an input for the SHAP explainer.

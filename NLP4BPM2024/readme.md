@@ -8,8 +8,9 @@ Reasoning on BP<sup>C</sup> is of crucial importance for process interventions a
 Paper related resources:
 - Benchmark's seed: [situations, rules, and questions](https://github.com/IBM/SAX/blob/main/NLP4BPM2024/situations-rules-questions.md).
 - A series of [prompts](https://github.com/IBM/SAX/blob/main/NLP4BPM2024/prompts.md) employed.
-
+- Domain-specific benchmark for situation \#2 is accessible [here](https://github.com/IBM/SAX/blob/main/NLP4BPM2024/domain-specific-benchmark-situation-2.xslx).
+- A full-scale instantiation of the benchmark is accessible [here](https://huggingface.co/datasets/ibm/BPC).
   
 ## How to cite
 Please consider citing [our paper](https://arxiv.org/abs/2406.05506) if you use code or ideas from this project:\
-Fabiana Fournier and Lior Limonad and Inna Skarbovsky, Towards a Benchmark for Causal Business Process Reasoning with LLMs, arXiv:2406.05506, 2024.
+Fabiana Fournier, Lior Limonad, and Inna Skarbovsky, Towards a Benchmark for Causal Business Process Reasoning with LLMs, arXiv:2406.05506, 2024.

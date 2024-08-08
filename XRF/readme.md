@@ -17,25 +17,11 @@
 > constraints.
 
 ​
-## Data Example:
-|amount             |credit_score       |risk               |is_credit|is_skilled|done_accept|
-|-------------------|-------------------|-------------------|---------|----------|-----------|
-|2252.039931401223  |3.222857167831561  |                   |True     |False     |True       |
-|1305.5568953583925 |-3.2806098957653527|                   |True     |True      |False      |
-|1067.548227650406  |0.3607771854432849 |                   |True     |True      |False      |
-|-304.44489235514357|                   |0.672529318111246  |False    |True      |False      |
-|805.8282582399206  |                   |0.7153447736537529 |False    |True      |False      |
-|751.6687145117093  |                   |0.8049364265338377 |False    |True      |False      |
-|942.0809629622781  |                   |0.7720897189668916 |False    |True      |False      |
-|561.0995262233068  |                   |0.5834656266897115 |False    |False     |True       |
-|969.3272817168503  |                   |0.6582375621427342 |False    |True      |False      |
-​
-​
 ## Software Requirements
-> python3.7
->> numpy==1.19.2 \
->> scikit-learn==1.0.1 \
->> deap==1.3.1
+python3.7
+> numpy==1.19.2 \
+> scikit-learn==1.0.1 \
+> deap==1.3.1
 ​
 ​
 ## How to cite

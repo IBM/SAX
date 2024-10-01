@@ -25,5 +25,5 @@ python3.7
 ​
 ​
 ## How to cite
-Please consider citing [our paper](https://proceedings_paper.pdf) if you use code or ideas from this project:\
-Amit, G., & Gur, S. (2024). eXplainable Random Forest. Human-Aware AI in Industry 5.0 at ECAI, ? Workshop Proceedings, ?, ?–?.
+Please consider citing [our paper](https://ceur-ws.org/Vol-3765/Camera_Ready_Paper-10.pdf) if you use code or ideas from this project:\
+Amit, G., & Gur, S.. eXplainable Random Forest. HAII5.0: Embracing Human-Aware AI in Industry 5.0, at ECAI 2024, 19 October 2024, Santiago de Compostela, Spain.

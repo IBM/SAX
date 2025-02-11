@@ -191,7 +191,7 @@ def train_model(learning_rate, gamma_value, epsilon_pgd, step_size_pgd, number_o
             count_val_loss = 0
         else:
             count_val_loss += 1
-        if count_val_loss == 300:
+        if count_val_loss == 5:
             break
 
     # Calculate test accuracy:
